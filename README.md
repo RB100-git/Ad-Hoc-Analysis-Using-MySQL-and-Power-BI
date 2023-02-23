@@ -1,4 +1,4 @@
-# Consumer-Goods--Business-Insights
+# Ad-Hoc Analysis in The Consumer Goods Industry
 ![image](https://user-images.githubusercontent.com/102472369/221034038-1680e7c6-160b-4765-8aa6-0396f958cbad.png)
 
 ## Overview:
