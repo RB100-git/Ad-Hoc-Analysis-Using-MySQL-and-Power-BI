@@ -1,4 +1,6 @@
 # Consumer-Goods--Business-Insights
+![image](https://user-images.githubusercontent.com/102472369/221034038-1680e7c6-160b-4765-8aa6-0396f958cbad.png)
+
 ## Overview:
 Atliq Hardwares (Imaginary Company) is a leading computer hardware producer in India and is expanding globally. 
 However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. The management recognizes the importance of data analytics in driving informed business decisions and has decided to strengthen their data analytics team by hiring several junior data analysts. To achieve this goal, the company's data analytics director has decided to conduct a SQL challenge to evaluate the technical and soft skills of potential candidates. The challenge will assess their SQL proficiency, ability to work within strict deadline, communication skills, and collaboration skills. The results of the challenge will be used to make informed hiring decisions and build a strong and effective data analytics team that will support Atliq Hardwares in making data-driven decisions and expanding its reach in the global market.
