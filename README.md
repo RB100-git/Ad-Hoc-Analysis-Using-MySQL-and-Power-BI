@@ -250,6 +250,14 @@ SELECT division, product_code, product, fiscal_year, Total_Sold_Quantity, rank_o
 
 
 
+-----------------------------------------------------------------------------------------------------------------------------------
+Here's my video presentation: https://www.linkedin.com/feed/update/urn:li:ugcPost:7034756342686826496/
+
+
+Check out the link to participate in the Resume Project challenge: https://codebasics.io/challenge/codebasics-resume-project-challenge
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
