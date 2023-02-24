@@ -196,7 +196,7 @@ ORDER BY year, month
 
 **In which quarter of 2020, got the maximum total_sold_quantity? The final output contains these fields:
 a) (sorted by) total_sold_quantity
-b) Quarter **
+b) Quarter**
 ```
 SELECT CONCAT(QUARTER(date), 'Q', YEAR(date)) AS Quarter, SUM(sold_quantity) AS Total_Sold_Quantity FROM fact_sales_monthly WHERE YEAR(date) = 2020
 GROUP BY QUARTER(date), YEAR(date)
